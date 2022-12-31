@@ -1,0 +1,494 @@
+/*!******************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].oneOf[3].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].oneOf[3].use[2]!./app/src/styles.css ***!
+  \******************************************************************************************************************************************************************************************/
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/*!**************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].oneOf[4].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].oneOf[4].use[2]!./node_modules/@atrilabs/design-system/lib/stylesheets/form-field.module.css ***!
+  \**************************************************************************************************************************************************************************************************************************************************/
+.form-field_formfield__6ucwu {
+  border: none;
+}
+.form-field_formfield__6ucwu:active {
+  outline: #fcd34d solid 1px;
+}
+.form-field_formfield__6ucwu:focus-visible {
+  outline: #fcd34d solid 1px;
+}
+
+/*!**********************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].oneOf[4].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].oneOf[4].use[2]!./node_modules/@atrilabs/design-system/lib/stylesheets/button.module.css ***!
+  \**********************************************************************************************************************************************************************************************************************************************/
+.button_danger__73BCV {
+  background-color: #be185d;
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 0.75rem;
+  line-height: 1rem;
+  color: #fdf2f8;
+  padding: 0.5rem 1rem;
+  border: none;
+}
+
+.button_cancel__2Eud0 {
+  background-color: #6b7280;
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 0.75rem;
+  line-height: 1rem;
+  color: #e5e7eb;
+  padding: 0.5rem 1rem;
+  border: none;
+}
+
+/*!*************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].oneOf[3].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].oneOf[3].use[2]!./node_modules/@atrilabs/react-component-manifests/src/manifests/styles.css ***!
+  \*************************************************************************************************************************************************************************************************************************************************/
+
+/*!*************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].oneOf[3].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].oneOf[3].use[2]!./app/src/page-css/Home.css ***!
+  \*************************************************************************************************************************************************************************************************/
+.p-Home.Flex4 {
+display: flex;
+}
+.p-Home.Div13 {
+;
+}
+.p-Home.Div14 {
+;
+}
+.p-Home.Div18 {
+;
+}
+.p-Home.Div19 {
+margin-left: 25px;
+}
+.p-Home.Div20 {
+;
+}
+.p-Home.Div21 {
+;
+}
+.p-Home.Div22 {
+;
+}
+.p-Home.Flex5 {
+display: flex;
+margin-top: 100px;
+}
+.p-Home.Div24 {
+padding-right: 200px;
+}
+.p-Home.Div39 {
+;
+}
+.p-Home.Div40 {
+;
+}
+.p-Home.Div43 {
+;
+}
+.p-Home.Div44 {
+;
+}
+.p-Home.Div49 {
+;
+}
+.p-Home.Flex7 {
+display: flex;
+}
+.p-Home.Div54 {
+;
+}
+.p-Home.Div55 {
+margin-top: 25px;
+}
+.p-Home.Div34 {
+;
+}
+.p-Home.Flex12 {
+display: flex;
+margin-bottom: ;
+padding-bottom: ;
+}
+.p-Home.Div75 {
+margin-bottom: 25px;
+}
+.p-Home.Flex13 {
+display: flex;
+}
+.p-Home.Flex15 {
+display: flex;
+}
+.p-Home.Flex16 {
+display: flex;
+}
+.p-Home.Div81 {
+text-align: center;
+}
+.p-Home.Div96 {
+;
+}
+.p-Home.Flex19 {
+display: flex;
+}
+.p-Home.Flex21 {
+display: flex;
+}
+.p-Home.Flex22 {
+display: flex;
+font-size: 60px;
+}
+.p-Home.Flex25 {
+display: flex;
+}
+.p-Home.Flex27 {
+display: flex;
+}
+.p-Home.Div101 {
+;
+}
+.p-Home.Div104 {
+;
+}
+.p-Home.Div107 {
+;
+}
+.p-Home.Flex28 {
+display: flex;
+color: #191818;
+background-color: #000000;
+margin-left: ;
+}
+.p-Home.Div115 {
+;
+}
+.p-Home.Flex29 {
+display: flex;
+margin-top: 250px;
+}
+.p-Home.Div116 {
+;
+}
+.p-Home.Flex30 {
+display: flex;
+}
+.p-Home.Div117 {
+;
+}
+.p-Home.Div118 {
+;
+}
+.p-Home.Flex31 {
+display: flex;
+}
+.p-Home.Flex33 {
+display: flex;
+margin-top: 100px;
+}
+.p-Home.Flex35 {
+display: flex;
+margin-top: 100px;
+background-color: #000000;
+}
+.p-Home.Flex10 {
+display: flex;
+right: 0;
+}
+.p-Home.Flex14 {
+display: flex;
+}
+.p-Home.Flex20 {
+display: flex;
+}
+.p-Home.Flex26 {
+display: flex;
+}
+.p-Home.TextBox49 {
+margin-left: 0px;
+margin-top: 250px;
+background-color: #000000;
+color: #fffdfd;
+padding-left: 20px;
+font-size: 25px;
+}
+.p-Home.Flex36 {
+display: flex;
+}
+.p-Home.Div15 {
+;
+}
+.p-Home.Div16 {
+;
+}
+.p-Home.Div17 {
+;
+}
+.p-Home.TextBox18 {
+position: relative;
+font-size: 50px;
+margin-left: 100px;
+margin-right: 250px;
+padding-left: 15px;
+}
+.p-Home.TextBox20 {
+position: relative;
+left: 50px;
+margin-top: 20px;
+}
+.p-Home.TextBox25 {
+position: relative;
+left: 100px;
+padding-top: 20px;
+}
+.p-Home.TextBox23 {
+position: relative;
+left: 150px;
+padding-top: 20px;
+}
+.p-Home.TextBox26 {
+position: relative;
+left: 200px;
+padding-top: 20px;
+}
+.p-Home.TextBox24 {
+position: relative;
+left: 250px;
+padding-top: 20px;
+margin-right: 100px;
+padding-right: ;
+}
+.p-Home.Div23 {
+;
+}
+.p-Home.Div27 {
+;
+}
+.p-Home.TextBox27 {
+margin-top: 100px;
+font-size: 60px;
+padding-left: 0px;
+position: relative;
+padding-right: ;
+width: 500px;
+margin-left: 100px;
+}
+.p-Home.TextBox28 {
+font-size: 60px;
+padding-left: 0px;
+margin-left: 100px;
+}
+.p-Home.TextBox29 {
+font-size: 60px;
+padding-left: 0px;
+margin-left: 100px;
+}
+.p-Home.TextBox30 {
+padding-top: ;
+padding-left: 0px;
+margin-left: 100px;
+margin-bottom: ;
+margin-top: 25px;
+font-size: 20px;
+}
+.p-Home.TextBox31 {
+padding-top: 0px;
+padding-left: 0px;
+margin-left: 100px;
+margin-top: ;
+font-size: 20px;
+}
+.p-Home.Button3 {
+color: #fff;
+background-color: #010306;
+padding-top: 8px;
+padding-left: 10px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #000000;
+cursor: pointer;
+-webkit-user-select: none;
+   -moz-user-select: none;
+        user-select: none;
+margin-bottom: ;
+margin-top: 45px;
+margin-left: 100px;
+}
+.p-Home.TextBox37 {
+font-size: 25px;
+padding-left: 10px;
+margin-top: 25px;
+margin-left: 100px;
+}
+.p-Home.Image12 {
+width: 500px;
+height: ;
+}
+.p-Home.TextBox38 {
+font-size: 25px;
+margin-left: 500px;
+margin-right: 500px;
+padding-left: 100px;
+}
+.p-Home.Image13 {
+;
+}
+.p-Home.TextBox39 {
+font-size: 45px;
+margin-left: 455px;
+margin-right: 500px;
+padding-left: 100px;
+text-align: left;
+line-height: ;
+color: #e96e11;
+margin-top: 250px;
+width: ;
+}
+.p-Home.TextBox40 {
+;
+}
+.p-Home.TextBox42 {
+text-align: center;
+font-size: 50px;
+}
+.p-Home.TextBox57 {
+text-align: center;
+font-size: 50px;
+}
+.p-Home.Image15 {
+margin-right: ;
+width: 1500px;
+}
+.p-Home.TextBox43 {
+margin-left: 40px;
+font-size: 25px;
+margin-top: 250px;
+}
+.p-Home.TextBox45 {
+width: 600px;
+margin-left: 40px;
+}
+.p-Home.Div98 {
+;
+}
+.p-Home.Div99 {
+;
+}
+.p-Home.Button5 {
+color: #fff;
+background-color: #000000;
+padding-top: ;
+padding-left: 15px;
+padding-bottom: ;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #000000;
+cursor: pointer;
+-webkit-user-select: none;
+   -moz-user-select: none;
+        user-select: none;
+margin-top: 20px;
+margin-bottom: 20px;
+margin-left: 400px;
+outline-color: #180404ff;
+}
+.p-Home.TextBox48 {
+width: 600px;
+margin-left: 40px;
+font-size: 60px;
+}
+.p-Home.Div100 {
+;
+}
+.p-Home.Div102 {
+;
+}
+.p-Home.Div103 {
+;
+}
+.p-Home.Div105 {
+;
+}
+.p-Home.Div106 {
+;
+}
+.p-Home.Div108 {
+;
+}
+.p-Home.Div109 {
+;
+}
+.p-Home.Div110 {
+;
+}
+.p-Home.Image16 {
+width: 500px;
+}
+.p-Home.Image18 {
+width: 500px;
+}
+.p-Home.Image19 {
+width: 500px;
+}
+.p-Home.Div111 {
+;
+}
+.p-Home.TextBox50 {
+margin-top: 10px;
+padding-top: 10px;
+padding-bottom: ;
+margin-bottom: 50px;
+margin-left: 20px;
+color: #fff9f9;
+font-size: 30px;
+}
+.p-Home.Div113 {
+;
+}
+.p-Home.Div114 {
+;
+}
+.p-Home.Image20 {
+margin-left: 500px;
+}
+.p-Home.TextBox54 {
+font-size: 25px;
+}
+.p-Home.TextBox56 {
+width: 400px;
+margin-top: 10px;
+font-size: 40px;
+}
+.p-Home.TextBox55 {
+margin-left: 300px;
+width: 500px;
+text-align: justify;
+}
+.p-Home.Image21 {
+;
+}
+.p-Home.Image22 {
+margin-top: 100px;
+}
+.p-Home.Image23 {
+text-align: center;
+}
+
